@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3 Angka Terbesar", "3 Angka Terbesar\3 Angka Terbesar.vbproj", "{01297252-4C07-46CB-BFED-76AA175EC9AD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{9AE338B6-244D-44BC-AFB9-E997455BA1C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01297252-4C07-46CB-BFED-76AA175EC9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01297252-4C07-46CB-BFED-76AA175EC9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01297252-4C07-46CB-BFED-76AA175EC9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01297252-4C07-46CB-BFED-76AA175EC9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE338B6-244D-44BC-AFB9-E997455BA1C5}.Debug|Any CPU.ActiveCfg = Debug
+		{9AE338B6-244D-44BC-AFB9-E997455BA1C5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {651EC33E-3C64-491D-9776-C2ACBD3B4390}
+	EndGlobalSection
+EndGlobal

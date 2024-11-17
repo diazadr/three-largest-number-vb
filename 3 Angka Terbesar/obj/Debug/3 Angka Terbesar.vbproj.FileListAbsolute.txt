@@ -1,0 +1,24 @@
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\obj\Debug\_3_Angka_Terbesar.Form1.resources
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\obj\Debug\_3_Angka_Terbesar.Resources.resources
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\bin\Debug\3 Angka Terbesar.exe.config
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\bin\Debug\3 Angka Terbesar.exe
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\bin\Debug\3 Angka Terbesar.pdb
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\bin\Debug\3 Angka Terbesar.xml
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.exe
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.xml
+C:\Users\LENOVO\source\repos\3 Angka Terbesar\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\bin\Debug\3 Angka Terbesar.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\bin\Debug\3 Angka Terbesar.exe
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\bin\Debug\3 Angka Terbesar.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\bin\Debug\3 Angka Terbesar.xml
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\obj\Debug\_3_Angka_Terbesar.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\obj\Debug\_3_Angka_Terbesar.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.exe
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.xml
+C:\Users\LENOVO\Documents\Visual Studio 2022\three-largest-number-vb-main\3 Angka Terbesar\obj\Debug\3 Angka Terbesar.pdb

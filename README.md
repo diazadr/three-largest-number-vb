@@ -15,10 +15,9 @@ This application takes three numeric inputs and identifies the largest value amo
 ### **Comparison of Three Largest Numbers using Local and Global Variables**
 
 ![Comparison Example 1](https://github.com/user-attachments/assets/e08d2784-4887-4ad2-8cce-655f217fd0c9)  
-*Example of comparison using local variables.*
+*Example of comparison using local variables and global variables.*
 
 ![Comparison Example 2](https://github.com/user-attachments/assets/9cda79e3-e950-4d6b-b1a2-68a5ecf3898e)  
-*Example of comparison using global variables.*
 
 ---
 

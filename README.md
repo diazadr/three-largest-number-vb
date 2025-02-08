@@ -40,7 +40,7 @@ This project is a simple application built using **Visual Basic** that determine
 This project is **completed** and will not be further developed.
 
 ## Contributions
-Contributions are welcome! Please refer to the **Contributing Guidelines** for detailed instructions on how to contribute.
+Feel free to submit issues or contribute by creating pull requests.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

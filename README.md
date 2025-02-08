@@ -18,8 +18,9 @@ This project is a simple application built using **Visual Basic** that determine
 
 ### **Comparison of Three Largest Numbers using Local and Global Variables**
 
-<img src="https://github.com/user-attachments/assets/e08d2784-4887-4ad2-8cce-655f217fd0c9" alt="Comparison Example 1" width="600">  
+<img src="https://github.com/user-attachments/assets/e08d2784-4887-4ad2-8cce-655f217fd0c9" alt="Comparison Example 1" width="600">
 *Example of comparison using local variables and global variables.*
+
 
 <img src="https://github.com/user-attachments/assets/9cda79e3-e950-4d6b-b1a2-68a5ecf3898e" alt="Comparison Example 2" width="600">
 
